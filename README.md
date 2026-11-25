@@ -19,3 +19,6 @@ phân tích và vận hành kinh doanh online.
 - [ ] Làm quen Codex
 - [ ] Làm quen Claude Code
 - [ ] Xây dựng hệ thống AI
+## Nhật ký học tập
+
+- Ngày 25/11/2026: Hoàn thành bài học GitHub đầu tiên.
