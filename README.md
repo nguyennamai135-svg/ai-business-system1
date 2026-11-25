@@ -22,3 +22,7 @@ phân tích và vận hành kinh doanh online.
 ## Nhật ký học tập
 
 - Ngày 25/11/2026: Hoàn thành bài học GitHub đầu tiên.
+## Khu vực thử nghiệm
+
+Đây là nhánh test-learning.
+Mình đang học cách sử dụng GitHub Branch.
